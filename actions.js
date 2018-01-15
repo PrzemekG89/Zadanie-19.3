@@ -1,4 +1,4 @@
-import uuid from uuid; //losowe generowanie identyfikatorów
+import uuid from 'uuid'; //losowe generowanie identyfikatorów
 
 //akcje
 export const ADD_COMMENT = 'ADD_COMMENT';
